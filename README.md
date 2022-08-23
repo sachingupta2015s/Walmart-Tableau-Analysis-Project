@@ -3,8 +3,9 @@
 ![walmart-logo](https://user-images.githubusercontent.com/78727304/186247922-5b3ca992-a5c5-4b96-ab09-3d0648fa2436.png)
 
 In Walmart Analysis I Scraped the data and analyze that and make a dashboard in Tableau.So lets first see the dashboard.
-![6](https://user-images.githubusercontent.com/78727304/186249837-cb1ccc3f-cdb2-468f-8fe4-4659b00337b4.JPG)
 
+
+![6](https://user-images.githubusercontent.com/78727304/186250934-dc7a5c2b-06e9-4f8b-b101-bc343234d8b1.JPG)
 
 
 In Walmart Analysis I Scraped the data and analyze that and make a dashboard in Tableau.
@@ -29,4 +30,8 @@ Step 4:
 I made a map chart to understand the depth of retail sales in walmart company with the help of Average Profit in USD per state.
 
 ![2](https://user-images.githubusercontent.com/78727304/186249591-30ece535-1ea1-4678-80d9-a275567ddb23.JPG)
+
+Step 5:
+
+
 
