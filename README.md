@@ -33,5 +33,25 @@ I made a map chart to understand the depth of retail sales in walmart company wi
 
 Step 5:
 
+Analyze data from different aspects like on 90+ above people are making loss for Retail business.
+
+![3](https://user-images.githubusercontent.com/78727304/186251213-a6d2ad26-af3e-4fc1-893e-a291a3b40cb6.JPG)
+
+Step 6:
+
+Then I make a chart on Regional Quarterly Average Profit Analysis.
+
+![4](https://user-images.githubusercontent.com/78727304/186251381-edf664f1-3eba-4592-a664-9c3ea1b1e52a.JPG)
+
+Dataset Link:
+
+![](https://drive.google.com/file/d/1AmpTGttdPZa_bxSdXodFsTIaHsOSP62h/view)
+
+References:
+
+Youtube link:
+![](https://www.youtube.com/watch?v=cAHJw2o2n4c&t=2086s)
 
 
+That all for my side....
+Thanks...
