@@ -27,5 +27,6 @@ Then make vaious sheets which includes Average Sales, Profit and Discount sectio
 
 Step 4:
 I made a map chart to understand the depth of retail sales in walmart company with the help of Average Profit in USD per state.
+
 ![2](https://user-images.githubusercontent.com/78727304/186249591-30ece535-1ea1-4678-80d9-a275567ddb23.JPG)
 
